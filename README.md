@@ -3,60 +3,15 @@
 Spacetraveling é uma aplicação de um blog em front-end com consumo de dados do Prismic.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Home](https://user-images.githubusercontent.com/69418670/121823628-dd8dc980-cc7c-11eb-8670-5f6754285768.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Posts](https://user-images.githubusercontent.com/69418670/121823683-4117f700-cc7d-11eb-86d8-100a82edcefc.png)
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS / TypeScript / NextJS
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Prismic API
 
-# Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-# entrar na pasta do projeto back end
-cd backend
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-# entrar na pasta do projeto front end web
-cd front-web
-# instalar dependências
-yarn install
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
