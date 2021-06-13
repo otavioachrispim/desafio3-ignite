@@ -8,8 +8,6 @@ Spacetraveling é uma aplicação de um blog em front-end com consumo de dados d
 ![Posts](https://user-images.githubusercontent.com/69418670/121823683-4117f700-cc7d-11eb-86d8-100a82edcefc.png)
 
 # Tecnologias utilizadas
-
-## Front end
 - HTML / CSS / JS / TypeScript / NextJS
 - ReactJS
 - Prismic API
